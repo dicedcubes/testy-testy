@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ 1\ to\ 10\ Board\r\n
+comment1.params=
+comment1.target=Board()
+comment2.params=size
+comment2.target=Board(int)
+comment3.params=p
+comment3.target=boolean\ setPosition(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getPosition()
+numComments=6

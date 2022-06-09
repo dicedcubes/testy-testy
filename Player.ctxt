@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=n
+comment1.target=Player(java.lang.String)
+comment2.params=n\ input
+comment2.target=Player(java.lang.String,\ java.util.Scanner)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=boolean\ isRobot()
+comment5.params=
+comment5.target=boolean\ isHuman()
+comment6.params=
+comment6.target=int\ move()
+comment7.params=s
+comment7.target=boolean\ valid(java.lang.String)
+numComments=8
