@@ -2,6 +2,8 @@
  * 1 to 10 Board
  */
 
+//test comment
+
 public class Board{
     private int size, pos;
     
